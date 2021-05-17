@@ -1,0 +1,42 @@
+header {
+    background-image: url(https://static01.nyt.com/images/2018/03/27/arts/27vangogh5/27vangogh5-videoSixteenByNineJumbo1600-v2.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-position: center;
+    border: solid aquamarine 2px;
+}
+
+body {
+    background-color: rgb(131, 197, 190);
+}
+
+#head {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    margin: auto;
+    width: 700px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 70px;
+    color: white;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Dancing Script';
+}
+
+p {
+    color: rgb(0, 109, 119);
+}
+
+footer {
+    padding-left: 550px;
+}
