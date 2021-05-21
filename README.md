@@ -1,2 +1,1 @@
-# vincent-van-gogh
-some information about vincent van gogh
+## დავალება რატომ არ გიწერია?
